@@ -11,6 +11,8 @@
 - [插件](https://qileq.com/tool/obsidian/plugins/)
   - [Template](https://qileq.com/tool/obsidian/plugins/template/)
   - [Dataview](https://qileq.com/tool/obsidian/plugins/dataview/)
+  - [Kanban](https://qileq.com/tool/obsidian/plugins/kanban/)
   - [Excalidraw](https://qileq.com/tool/obsidian/plugins/excalidraw/)
   - [Quickadd](https://qileq.com/tool/obsidian/plugins/quickadd/)
 - [使用案例](https://qileq.com/tool/obsidian/usecase/)   
+
