@@ -14,5 +14,5 @@
   - [Kanban](https://qileq.com/tool/obsidian/plugins/kanban/)
   - [Excalidraw](https://qileq.com/tool/obsidian/plugins/excalidraw/)
   - [Quickadd](https://qileq.com/tool/obsidian/plugins/quickadd/)
-- [使用案例](https://qileq.com/tool/obsidian/usecase/)   
+- [使用案例](https://qileq.com/tool/obsidian/usecase/)  
 
