@@ -19,3 +19,5 @@
   - [Obsidian homepage 优化](https://qileq.com/223/)
   - [Obsidian 搭建阅读系统](https://qileq.com/225/)
   - [Obsidian 搭建时间管理系统](https://qileq.com/227/)
+
+内容持续更新中，更多内容请访问[网站](https://qileq.com/software/note/)。
